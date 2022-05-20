@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Bajpeyi</h1>
-<h3 align="center">A Coding Enthusiast.</h3>
+<h3 align="center">A Coding Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-bajpeyi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-bajpeyi" /> </p>
 
-- 💬 Ask me about **ML**
+- 💬 Ask me about **ML & DSA**
 
 - 📫 How to reach me **sbajpeyi95.66@gmail.com**
 
-- 📄My resume link: [https://drive.google.com/file/d/1k3wObbSRwnewUTjnd_pHEJi-hQ6aijBF/view?usp=sharing](https://drive.google.com/file/d/1k3wObbSRwnewUTjnd_pHEJi-hQ6aijBF/view?usp=sharing)
+- 📄 Here is my resume: [https://drive.google.com/file/d/1k3wObbSRwnewUTjnd_pHEJi-hQ6aijBF/view?usp=sharing](https://drive.google.com/file/d/1k3wObbSRwnewUTjnd_pHEJi-hQ6aijBF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
