@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/75272692/207870742-11db3804-35b4-4591-8ee5-466e5b005c41.png" alt="Shivam-Bajpeyi" /> </p>
 <h1 align="center">Hi 👋, I'm Shivam Bajpeyi</h1>
 <h3 align="center">A Coding Enthusiast</h3>
 
